@@ -1,0 +1,7 @@
+.example-card {
+    width: 20vw;
+    margin-top: 2em;
+    @media (max-width: 800px) {
+        width: 80vw;
+    }
+}
